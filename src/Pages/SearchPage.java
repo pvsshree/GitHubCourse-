@@ -5,10 +5,9 @@ public class SearchPage {
 	public void search() {
 		
 		System.out.println("search");
+		System.out.println("Bye");
 		
-		String un ="admin";
-		String pwd = "admin";
-		System.out.println("Logged in");
+		
 	}
 
 }
