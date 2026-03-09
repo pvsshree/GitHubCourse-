@@ -6,7 +6,7 @@ public class SearchPage {
 		
 		System.out.println("search");
 		System.out.println("Bye");
-		
+		String s = "My name is Payal";
 		
 	}
 
