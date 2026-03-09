@@ -7,6 +7,8 @@ public class CartPage {
 System.out.println("Cart Page");
 	
 	System.out.println("Cart Page Feature ");
+	
+	System.out.println("This is Eclipse");
 	}
 
 }
