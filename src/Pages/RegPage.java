@@ -10,6 +10,7 @@ public class RegPage {
 		
 		
 		System.out.println("This is cherry-pick");
+		int e  = 50 ;
 
 	}
 
