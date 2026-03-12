@@ -7,16 +7,7 @@ public class CartPage {
 System.out.println("Cart Page");
 	
 	System.out.println("Cart Page Feature ");
-<<<<<<< HEAD
-	} 
-	
-	int i = 10;
-=======
-	
-	
-	int i = 10;
-	
 	}
->>>>>>> RP
+	int i = 10;
 
 }
