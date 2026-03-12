@@ -10,6 +10,8 @@ public class SearchPage {
 		
 		System.out.println("&&&&&&&&&&&");
 		
+		System.out.println("This feature/tag 1");
+		
 	}
 
 }
