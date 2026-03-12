@@ -8,9 +8,8 @@ System.out.println("Cart Page");
 	
 	System.out.println("Cart Page Feature ");
 	}
-<<<<<<< HEAD
-=======
+
 	int i = 10;
->>>>>>> 3ef5b6a (cherry pick)
+
 
 }
