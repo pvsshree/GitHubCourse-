@@ -9,8 +9,7 @@ System.out.println("Cart Page");
 	System.out.println("Cart Page Feature ");
 	}
 	int i = 10;
-
-	int i = 10;
+int j = 5;
 
 
 }
