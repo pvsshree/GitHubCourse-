@@ -10,6 +10,8 @@ public class LoginPage {
 		System.out.println("Logged out");
 		
 		System.out.println("Logout Successful");
+		
+		System.out.println("Today's login page code");
 	}
 	
 	
