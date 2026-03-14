@@ -15,6 +15,15 @@ public class SearchPage {
 		
 		System.out.println("This Pull request");
 		
+		System.out.println("New changes added for 14/03/2026");
+		System.out.println("Today's task is closed now sending for review");
+
+
+		int t = 40;
+		System.out.println("Today's changes directly made through git");
+
+		int j = 100;
+
 	}
 
 }
