@@ -22,6 +22,8 @@ public class SearchPage {
 		int t = 40;
 		System.out.println("Today's changes directly made through git");
 
+		int j = 100;
+
 	}
 
 }
