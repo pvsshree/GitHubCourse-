@@ -18,6 +18,8 @@ public class RegPage {
 		
 		
 		System.out.println("This is cherry-pick");
+		
+		int t = 55;
 
 
 	}
