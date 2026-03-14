@@ -8,5 +8,15 @@ System.out.println("Cart Page");
 	
 	System.out.println("Cart Page Feature ");
 	}
+	int i = 10;
+int j = 5;
+
+int t = 44;
+
+int y = 100;
+
+
+int k = 90;
+
 
 }
